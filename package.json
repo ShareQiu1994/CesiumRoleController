@@ -9,6 +9,10 @@
     "build": "vite build",
     "preview": "vite preview"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/ShareQiu1994/CesiumRoleController.git"
+	},
   "dependencies": {
     "@turf/turf": "^6.5.0",
     "cesium-role-controller": "^1.0.3",
@@ -33,5 +37,5 @@
   ],
   "author": "刘博方",
   "license": "Apache-2.0",
-  "homepage": "http://liubf.cn"
+  "homepage": "http://liubf.com"
 }
