@@ -67,7 +67,7 @@ controller.init({
 
 ## 版权说明
 
-1. cesium-role-controller 插件由[liubf](http://liubf.cn/)自主研发，拥有所有权利。
+1. cesium-role-controller 插件由[liubf](http://liubf.com/)自主研发，拥有所有权利。
 2. 任何个人或组织可以在遵守相关要求下可以免费无限制使用。
 
 ## 版本日志
