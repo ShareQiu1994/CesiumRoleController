@@ -78,7 +78,9 @@ controller.init({
 #### 1.0.1 2023/06/08
    1. 修复配置文件参数拼写错误 参数lookViewLevel 修改为lockViewLevel   
 #### 1.0.2 2023/06/08
-   1. 修复自由视角下相机飘的问题 
+   1. 修复自由视角下相机飘的问题
+#### 1.0.2 2023/06/08
+   1. 修复自由视角下多个按键按下相机飘的问题    
 ## 示例视频
 
 [贴合地形视频](https://devmodels.oss-cn-shenzhen.aliyuncs.com/devtest/liubofang/video/bandicam%202023-06-06%2015-27-18-935.mp4)
