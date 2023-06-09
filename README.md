@@ -6,14 +6,15 @@
 
 <p align="center">
   <a target="_black" href="https://www.npmjs.com/package/cesium-role-controller">
-    <img alt="Npm version" src="https://img.shields.io/npm/v/cesium-role-controller.svg?style=flat&logo=npm&label=版本号" />
+    <img alt="Npm version" src="https://img.shields.io/npm/v/cesium-role-controller.svg?style=flat&logo=npm&label=version" />
   </a>
   <a target="_black" href="https://www.npmjs.com/package/cesium-role-controller">
-    <img alt="Npm downloads" src="https://img.shields.io/npm/dt/cesium-role-controller.svg?style=flat&logo=npm&label=下载量" />
+    <img alt="Npm downloads" src="https://img.shields.io/npm/dt/cesium-role-controller.svg?logo=npm&label=downloads" />
   </a>
   <a target="_black" href="https://github.com/ShareQiu1994/CesiumRoleController">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/ShareQiu1994/CesiumRoleController?style=flat&logo=github" />
   </a>
+   <a href="https://www.npmjs.com/package/cesium-role-controller"><img src="https://img.shields.io/npm/l/cesium-role-controller.svg?style=flat&logo=apache" alt="License"></a>
 </p>
 
 # 演示地址
@@ -57,7 +58,7 @@ controller.init({
 | 名称    | 说明   | 参数    | 参数类型 | 返回值 | 使用方法               |
 | ------- | ------ | ------- | -------- | ------ | ---------------------- |
 | init    | 初始化 | options | object   | void   | controller.init({...}) |
-| destroy | 销毁   | -       | -        | void   | controller.destory()   |
+| destroy | 销毁   | -       | -        | void   | controller.destroy()   |
 
 ## 注意事项
 
