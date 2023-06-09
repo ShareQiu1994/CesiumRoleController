@@ -21,6 +21,13 @@
 
 [http://devmodels.oss-cn-shenzhen.aliyuncs.com/devtest/liubofang/CesiumRoleController/index.html](http://devmodels.oss-cn-shenzhen.aliyuncs.com/devtest/liubofang/CesiumRoleController/index.html)
 
+## 下载运行此示例代码
+``` 
+   yarn install  // 安装依赖
+   yarn run serve  // 运行示例代码
+   yarn run build  // 编译打包示例代码
+```     
+
 ## 快速上手
 
 ```javascript
