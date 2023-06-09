@@ -111,7 +111,7 @@ const start = () => {
 }
 
 const close = () => {
-  controller.destory()
+  controller.destroy()
 }
 
 // 组件卸载之前销毁mars3d实例
